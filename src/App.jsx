@@ -31,8 +31,11 @@ class App extends Component {
   }
 
   render() {
+    console.log("Sample");
     return (
+      
       <div className="assignment-app">
+      
         <Header />
         <Body />
         <Footer />
