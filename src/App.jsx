@@ -32,6 +32,7 @@ class App extends Component {
 
   render() {
     console.log("Sample");
+    console.log("Sample from local");
     return (
       
       <div className="assignment-app">
